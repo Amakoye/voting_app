@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# voting_app
+
+basic react app. First react app Full stack React book
+
 ## Available Scripts
 
 In the project directory, you can run:
