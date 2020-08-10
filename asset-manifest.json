@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/voting_app/static/js/main.7b6a511e.chunk.js",
+    "main.js.map": "/voting_app/static/js/main.7b6a511e.chunk.js.map",
+    "runtime-main.js": "/voting_app/static/js/runtime-main.3e1efd19.js",
+    "runtime-main.js.map": "/voting_app/static/js/runtime-main.3e1efd19.js.map",
+    "static/css/2.15a2e2b7.chunk.css": "/voting_app/static/css/2.15a2e2b7.chunk.css",
+    "static/js/2.00672495.chunk.js": "/voting_app/static/js/2.00672495.chunk.js",
+    "static/js/2.00672495.chunk.js.map": "/voting_app/static/js/2.00672495.chunk.js.map",
+    "index.html": "/voting_app/index.html",
+    "precache-manifest.1d1fef0f19361e30d602408f55c899c9.js": "/voting_app/precache-manifest.1d1fef0f19361e30d602408f55c899c9.js",
+    "service-worker.js": "/voting_app/service-worker.js",
+    "static/css/2.15a2e2b7.chunk.css.map": "/voting_app/static/css/2.15a2e2b7.chunk.css.map",
+    "static/js/2.00672495.chunk.js.LICENSE.txt": "/voting_app/static/js/2.00672495.chunk.js.LICENSE.txt",
+    "static/media/avatar1.png": "/voting_app/static/media/avatar1.ea871564.png",
+    "static/media/avatar2.png": "/voting_app/static/media/avatar2.08572401.png",
+    "static/media/avatar3.png": "/voting_app/static/media/avatar3.22858dfa.png",
+    "static/media/avatar4.png": "/voting_app/static/media/avatar4.955d77c3.png",
+    "static/media/semantic.min.css": "/voting_app/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/product1.png": "/voting_app/static/media/product1.4e98389d.png",
+    "static/media/product3.png": "/voting_app/static/media/product3.7734de39.png",
+    "static/media/product4.png": "/voting_app/static/media/product4.0022b204.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e1efd19.js",
+    "static/css/2.15a2e2b7.chunk.css",
+    "static/js/2.00672495.chunk.js",
+    "static/js/main.7b6a511e.chunk.js"
+  ]
+}
