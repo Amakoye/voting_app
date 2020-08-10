@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 basic react app. First react app Full stack React book
 
+### Core fundamentals covered
+
+1. Organizing React apps as components
+2. Using JSX inside the render method
+3. Data flows from parent to children through props
+4. Event flows from children to parent through functions
+5. Utilizing React lifecycle methods
+6. Stateful components and how state is different from props
+7. How to manipulate state while treating it as immutable
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -70,13 +80,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-### Core fundamentals covered
-
-1. We think about and organize our React apps as components
-2. Using JSX inside the render method
-3. Data f lows from parent to children through props
-4. Event f lows from children to parent through functions
-5. Utilizing React lifecycle methods
-6. Stateful components and how state is different from props
-7. How to manipulate state while treating it as immutable
